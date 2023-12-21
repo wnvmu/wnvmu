@@ -1,5 +1,10 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=wnvmu&color=ff69b4"><br>
-
+<div align="center">
+  <a href="https://github.com/wnvmu">
+    <img align="center" src="https://digasimoficial.files.wordpress.com/2016/09/diga-seja-bem-vindo-animado-ok.gif" width="500">
+  </a>
+</div>
+<br>
 ## ⭐️ Hard Skills
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wnvmu&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
 <div align="center">
